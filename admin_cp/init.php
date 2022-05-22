@@ -8,11 +8,17 @@ $languages = '../includes/languages/'; // lang directory
 $func = '../includes/functions/'; // function directory
 
 
+
+$header='../header.php';
+
 //include important links
 
 include($func . 'functions.php');
 include($languages . 'en.php'); // website language
 include($tmp . 'header.php');
+include('../header.php');
+include('../Nav.php');
+
 
 //Hide the nav bar if wanted
 // if (!isset($noNav)) {
