@@ -88,4 +88,7 @@ include_once('../includes/templates/navbar.php');
         </div>
     </div>
 </div>
-<?php include('../footer.php');?>
+<?php
+include_once('../includes/templates/footer.php');
+
+?>

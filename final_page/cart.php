@@ -2,7 +2,8 @@
 session_start();
 require("../admin_cp/init.php");
 include('../includes/templates/navbar.php');
-$sql = "SELECT * FROM `cart` WHERE order_id=$_SESSION[order_id] order by product_id";
+$sql = "SELECT * FROM `cart` WHERE order_id =$_SESSION[order_id] order by product_id ";
+
 $statment = $db->prepare($sql);
 $statment->execute();
 $cart = $statment->fetchAll();

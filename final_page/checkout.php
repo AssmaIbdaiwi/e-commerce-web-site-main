@@ -133,4 +133,4 @@ $_SESSION['order_id'] = 59;
     ?>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <?php include('../footer.php');?>
+    <?php include('../includes/templates/footer.php') ?>
