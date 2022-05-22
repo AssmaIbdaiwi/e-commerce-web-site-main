@@ -162,6 +162,4 @@ include($tmp . 'navbar.php');
         </section>
 		<!-- Related items section-->
  
-<?php
-include_once '../includes/templates/footer.php';
-?>
+        <?php include('../footer.php');?>

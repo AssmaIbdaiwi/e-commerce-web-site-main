@@ -16,8 +16,8 @@
 
 <body>
     <!-- Navbar -->
-    <?php include('../header.php');?>
-    <?php include('../Nav.php');?>
+ 
+    <?php include('../admin_cp/init.php');?>
     <!-- Navbar ends -->
 
 
@@ -51,16 +51,15 @@
 
     <div class="container my-4">
 
-
         <!--Grid row-->
         <div class="row">
     
           <!--Grid column-->
           <div class="col-lg-4 col-md-12 mb-4">
     
-            <img src="http://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(58).jpg" class="img-fluid mb-4" alt="">
+            <img src="pic/20000176348.webp" class="img-fluid mb-4" alt="">
     
-            <img src="http://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(66).jpg" class="img-fluid mb-4" alt=""
+            <img src="pic/acernitrolaptop-1650914214505.jpg" class="img-fluid mb-4" alt=""
               data-wow-delay="0.3s">
     
           </div>
@@ -69,10 +68,10 @@
           <!--Grid column-->
           <div class="col-lg-4 col-md-6 mb-4">
     
-            <img src="http://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(74).jpg" class="img-fluid mb-4" alt=""
+            <img src="pic/microwave-oven.webp" class="img-fluid mb-4" alt=""
               data-wow-delay="0.1s">
     
-            <img src="http://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(64).jpg" class="img-fluid mb-4" alt=""
+            <img src="pic/istockphoto-842160124-612x612.jpg" class="img-fluid mb-4" alt=""
               data-wow-delay="0.4s">
     
           </div>
@@ -81,10 +80,10 @@
           <!--Grid column-->
           <div class="col-lg-4 col-md-6 mb-4">
     
-            <img src="http://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(77).jpg" class="img-fluid mb-4" alt=""
+            <img src="pic/LG-C7-Hero.webp" class="img-fluid mb-4" alt=""
               data-wow-delay="0.2s">
     
-            <img src="http://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(67).jpg" class="img-fluid mb-4" alt=""
+            <img src="pic/regular-dish-soap-in-dishwasher-1907646-04-25d53cf519a84cbb838b71232cd93c2c.jpg" class="img-fluid mb-4" alt=""
               data-wow-delay="0.5s">
     
           </div>

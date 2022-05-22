@@ -75,7 +75,4 @@ session_start();
         </div>
     </div>
 </div>
-<?php
-include_once('../includes/templates/footer.php');
-
-?>
+<?php include('../footer.php');?>

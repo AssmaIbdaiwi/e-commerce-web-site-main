@@ -99,6 +99,4 @@ if (empty($products)) {
 </section>
 
 
-<?php
-include_once '../includes/templates/footer.php';
-?>
+<?php include('../footer.php');?>

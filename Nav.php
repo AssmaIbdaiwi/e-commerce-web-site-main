@@ -17,7 +17,7 @@
                 <a class="dropdown-item" href="./final_page/checkout.php">Checkout</a>
               </div>
             </li>
-	          <li class="nav-item"><a href="./about/about.html" class="nav-link">About</a></li>
+	          <li class="nav-item"><a href="./about/about.php" class="nav-link">About</a></li>
 	          <li class="nav-item"><a href="./contact_us/contact.php" class="nav-link">Contact</a></li>
 	          <li class="nav-item cta cta-colored"><a href="./final_page/cart.php" class="nav-link"><span class="icon-shopping_cart"></span>[0]</a></li>
 

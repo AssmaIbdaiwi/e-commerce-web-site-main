@@ -71,7 +71,4 @@ include_once('../includes/templates/navbar.php');
     </div>
 </div>
 
-<?php
-include_once('../includes/templates/footer.php');
-
-?>
+<?php include('../footer.php');?>

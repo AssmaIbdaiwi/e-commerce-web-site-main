@@ -17,7 +17,7 @@ include($func . 'functions.php');
 include($languages . 'en.php'); // website language
 include($tmp . 'header.php');
 include('../header.php');
-include('../Nav.php');
+
 
 
 //Hide the nav bar if wanted
